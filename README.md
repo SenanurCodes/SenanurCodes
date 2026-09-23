@@ -1,8 +1,9 @@
 <div align="center">
-  <h1>Hi there, I'm Sena! 👋</h1>
-  <h3>Junior Software Developer | C#, OOP & Git Enthusiast 🚀</h3>
-  <p>Focused on continuous learning, writing clean code, and building the future one commit at a time.</p>
-  <p>Dreaming of coding under the Spanish sun! ☀️🇪🇸</p>
+  <h1>Senanur Bildirici</h1>
+  <h3>Junior Software Developer</h3>
+  <p>Building a strong technical foundation in software development through practical application and continuous learning.</p>
+  <p>Currently focused on C#, .NET MAUI, and Object-Oriented Programming. My primary goal is to write clean, readable code while bridging the gap between theoretical computer science concepts—like data structures and software testing—and real-world projects. I am actively developing personal applications to improve my problem-solving skills.</p>
+  <p>Working towards advancing my technical career and contributing to the European tech industry.</p>
 </div>
 
 ---
