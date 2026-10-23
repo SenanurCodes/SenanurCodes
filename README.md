@@ -32,4 +32,5 @@
 ### Iletisim
 
 * **Web Sitesi:** [senanurai.com.tr](https://senanurai.com.tr)
+* **E-posta:** [bildiricisenanur21@gmail.com](mailto:bildiricisenanur21@gmail.com)
 * **GitHub:** [github.com/SenanurCodes](https://github.com/SenanurCodes)
